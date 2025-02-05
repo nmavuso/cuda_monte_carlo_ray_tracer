@@ -30,7 +30,7 @@ This project implements a **real-time Monte Carlo ray tracer** using CUDA, optim
 
 ### Clone & Build
 ```bash
-git clone https://github.com/yourusername/cuda-path-tracer.git
+git clone https://github.com/nmavuso/cuda_monte_carlo_ray_tracer.git
 cd cuda-path-tracer
 mkdir build && cd build
 cmake ..
