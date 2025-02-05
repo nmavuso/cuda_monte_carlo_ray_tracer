@@ -95,4 +95,3 @@ The `main.cu` file integrates a call to the `denoiser.denoise()` function. Howev
 -   **High-Quality Training Data:**  Acquire or generate a large dataset of noisy/clean image pairs for training.
 -   **TensorRT Conversion:** Convert the trained PyTorch model to TensorRT for optimized inference on NVIDIA GPUs, leveraging Tensor Cores.
 
-## Project Structure
