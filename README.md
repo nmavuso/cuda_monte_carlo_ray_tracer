@@ -4,11 +4,11 @@
 This project implements a **real-time Monte Carlo ray tracer** using CUDA, optimized with deep-learning-based **AI denoising** to accelerate global illumination rendering. The goal is to achieve **physically-based rendering (PBR)** in real time by leveraging **BVH acceleration structures** and **RTX Tensor cores**.
 
 ## Features
-- 🚀 **CUDA-accelerated path tracing** for photorealistic rendering.
-- 🎯 **Real-time BVH acceleration structures** for efficient ray traversal.
-- 🤖 **AI-based denoiser** (Diffusion models / Transformers).
-- ⚡ **Real-time global illumination and indirect lighting**.
-- 🌍 **Supports OBJ, GLTF models** for complex scenes.
+- **CUDA-accelerated path tracing** for photorealistic rendering.
+- **Real-time BVH acceleration structures** for efficient ray traversal.
+- **AI-based denoiser** (Diffusion models / Transformers).
+- **Real-time global illumination and indirect lighting**.
+- **Supports OBJ, GLTF models** for complex scenes.
 
 ## Why It's Challenging
 - **Warp divergence**: Since light paths scatter randomly, ensuring efficient branching and memory access patterns is critical.
