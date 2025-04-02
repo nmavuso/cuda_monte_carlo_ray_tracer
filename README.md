@@ -1,5 +1,9 @@
 # CUDA-Accelerated Monte Carlo Path Tracing with AI Denoising
 
+## Summary
+
+The GPU implementation achieve a 7x speed UP compared to a CPU version. 
+
 ## Overview
 
 This project implements a real-time Monte Carlo path tracer using CUDA, optimized with deep-learning-based AI denoising to accelerate global illumination rendering. The goal is to achieve physically-based rendering (PBR) in real-time by leveraging BVH acceleration structures and RTX Tensor cores (if available).
