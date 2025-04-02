@@ -42,8 +42,8 @@ This project implements a real-time Monte Carlo path tracer using CUDA, optimize
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/nmavuso/cuda_monte_carlo_ray_tracer.git](https://github.com/nmavuso/cuda_monte_carlo_ray_tracer.git)
-    cd cuda-path-tracer
+    git clone https://github.com/nmavuso/cuda_monte_carlo_ray_tracer.git
+    cd cuda_monte_carlo_ray_tracer
     ```
 
 2.  **Create a build directory:**
