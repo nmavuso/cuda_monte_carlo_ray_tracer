@@ -2,7 +2,7 @@
 
 ## Summary
 
-The GPU implementation achieve a 7x speed UP compared to a CPU version. 
+The GPU implementation achieve a 7x speed up compared to a CPU version. 
 
 ## Overview
 
