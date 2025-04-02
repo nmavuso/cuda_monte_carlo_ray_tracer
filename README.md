@@ -60,12 +60,7 @@ This project implements a real-time Monte Carlo path tracer using CUDA, optimize
 4.  **Compile the project:**
     ```bash
     make -j$(nproc)
-    ```
-
-5.  **Run (after building):**
-    ```bash
-    ./path_tracer
-    ```
+    ``` 
 
 ## AI Denoiser
 
